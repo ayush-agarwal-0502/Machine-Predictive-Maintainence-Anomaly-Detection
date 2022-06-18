@@ -22,7 +22,7 @@ The code is availaible at : https://github.com/ayush-agarwal-0502/Machine-Predic
 
 ## Aim : 
 
-__To build an Anomaly Detection system for Predictive Maintainence work on Machines data using Multivariate Gaussian fitting and thresholding , a simple unsupervised learning technique__ . 
+To build an __Anomaly Detection system__ for __Predictive Maintainence__ work on __Machines data__ using __Multivariate Gaussian fitting and thresholding__ , a simple __unsupervised learning__ technique . 
 
 ## Data Preprocessing and Visualisation :
 
