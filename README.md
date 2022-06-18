@@ -51,3 +51,4 @@ Scaling the dataset for better fitting of the gaussian .
 
 ![image](https://user-images.githubusercontent.com/86561124/174450574-5e8e37c4-7b5a-42cd-b8bd-f3b49e3dfdb8.png)
 
+The Confusion Matrix was satisfactory , and the F1 score of my model was in range of that of competitors (https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification/code) who have used advanced techniques such as XGBoost , hence showing that the project was successful . Furthermore , the threshold can be shifted to decrease the number of false negatives . The data is as such that the anomalies and the non anomalies are a bit mixed , and hence we can't expect extreme high accuracies . F-Beta Score can also be considered as a better marking factor here if we wanted to emphasise over false negatives over the cost of false positives . 
