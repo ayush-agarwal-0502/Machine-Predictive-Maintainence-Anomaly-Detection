@@ -6,6 +6,10 @@ Anomaly Detection deployed on machine data dataset for Predictive Maintenance
 * Skills - Anomaly Detection, Multivariate Gaussian , Unsupervised Learning , Data Visualisation , Exploratory Data Analysis , Data Science , Machine Learning
 * Tools - Google Colab , Jupyter Notebooks , Python , Numpy , Pandas , Matplotlib , Seaborn , Sklearn
 
+## Real Life Application :
+
+This can be deployed in an Industrial Internet of Things (IIoT) System , where the system variables measured throught the sensors are sent to Processing System (ofc with my algorithm inside it ) and can be used to monitor system health and predict need for maintainence in the Mechatronic System . Since Prevention is better than cure , a maintainence before any damage or major inconvenience happens is better , hence our system can reduce maintainence costs thus being a business boon . 
+
 ## The Dataset : 
 
 The data was taken from Kaggle site : https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification .
@@ -18,7 +22,7 @@ The code is availaible at : https://github.com/ayush-agarwal-0502/Machine-Predic
 
 ## Aim : 
 
-To build an Anomaly Detection system for Predictive Maintainence work on Machines data using Multivariate Gaussian fitting and thresholding , a simple unsupervised learning technique . 
+__To build an Anomaly Detection system for Predictive Maintainence work on Machines data using Multivariate Gaussian fitting and thresholding , a simple unsupervised learning technique__ . 
 
 ## Data Preprocessing and Visualisation :
 
