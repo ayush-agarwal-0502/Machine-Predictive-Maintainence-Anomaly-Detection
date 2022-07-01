@@ -1,7 +1,7 @@
 # Machine-Predictive-Maintainence-Anomaly-Detection
 Anomaly Detection deployed on machine data dataset for Predictive Maintenance . 
 
-NOTE : I have also included the code files for predictive maintainence using XGBoost , using LSTMs and using Autoencoders (seq2seq and CNN based ) which I learnt from Nvidia Deep learning course , in this repository . However , these were only included as a reference to readers on what other methods could be used and for the sake of completeness , and are not written by me . 
+NOTE : I have also included the code files for predictive maintainence using XGBoost , using LSTMs and using Autoencoders (seq2seq and CNN based ) which I learnt from Nvidia Deep learning course , in this repository . However , these were only included as a reference to readers on what other methods could be used and for the sake of completeness , and are not written by me . The code for multivariate gaussian method is written completely by me :)
 
 * Name - Ayush Agarwal 
 * Project - Predictive Maintainence Anomaly Detection 
