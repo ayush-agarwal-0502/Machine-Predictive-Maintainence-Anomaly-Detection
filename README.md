@@ -1,9 +1,9 @@
 # Machine-Predictive-Maintainence-Anomaly-Detection
 Anomaly Detection deployed on machine data dataset for Predictive Maintenance . 
 
-NOTE : I have also included the code files for predictive maintainence using XGBoost , using LSTMs and using Autoencoders (seq2seq and CNN based ) which I learnt from Nvidia Deep learning course , in this repository . However , these were only included as a reference to readers on what other methods could be used and for the sake of completeness , and are not written by me . The code for multivariate gaussian method is written completely by me :)
+NOTE : I have also included the code files for predictive maintainence using XGBoost , using LSTMs and using Autoencoders (seq2seq and CNN based ) which I learnt from Knowledgehurt  learning course , in this repository . However , these were only included as a reference to readers on what other methods could be used and for the sake of completeness , and are not written by me . The code for multivariate gaussian method is written completely by me :)
 
-* Name - Ayush Agarwal 
+* Name - Pagolu Venkata Sai Chand 
 * Project - Predictive Maintainence Anomaly Detection 
 * Skills - Anomaly Detection, Multivariate Gaussian , Unsupervised Learning , Data Visualisation , Exploratory Data Analysis , Data Science , Machine Learning
 * Tools - Google Colab , Jupyter Notebooks , Python , Numpy , Pandas , Matplotlib , Seaborn , Sklearn
@@ -14,13 +14,11 @@ This can be deployed in an Industrial Internet of Things (IIoT) System , where t
 
 ## The Dataset : 
 
-The data was taken from Kaggle site : https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification .
-
-A copy of the dataset has been uploaded on this repository just in case the kaggle one gets changed : https://github.com/ayush-agarwal-0502/Machine-Predictive-Maintainence-Anomaly-Detection/blob/main/predictive_maintenance.csv .
+The data was taken from : C:\Users\venka\Downloads\AnomaData (1).xlsx
 
 ## The Code :
 
-The code is availaible at : https://github.com/ayush-agarwal-0502/Machine-Predictive-Maintainence-Anomaly-Detection/blob/main/anomaly_detector_ML_project.ipynb (in this repository itself ) .
+The code is availaible at : https://github.com/chandu@0231/Machine-Predictive-Maintainence-Anomaly-Detection/blob/main/anomaly_detector_ML_project.ipynb (in this repository itself ) .
 
 ## Aim : 
 
@@ -57,4 +55,4 @@ Scaling the dataset for better fitting of the gaussian .
 
 ![image](https://user-images.githubusercontent.com/86561124/174450574-5e8e37c4-7b5a-42cd-b8bd-f3b49e3dfdb8.png)
 
-The Confusion Matrix was satisfactory , and the F1 score of my model was in range of that of competitors (https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification/code) who have used advanced techniques such as XGBoost , hence showing that the project was successful . Furthermore , the threshold can be shifted to decrease the number of false negatives . The data is as such that the anomalies and the non anomalies are a bit mixed , and hence we can't expect extreme high accuracies . F-Beta Score can also be considered as a better marking factor here if we wanted to emphasise over false negatives over the cost of false positives . 
+The Confusion Matrix was satisfactory , and the F1 score of my model was in range of that of competitors (C:\Users\venka\Downloads\AnomaData (1).xlsx/code) who have used advanced techniques such as XGBoost , hence showing that the project was successful . Furthermore , the threshold can be shifted to decrease the number of false negatives . The data is as such that the anomalies and the non anomalies are a bit mixed , and hence we can't expect extreme high accuracies . F-Beta Score can also be considered as a better marking factor here if we wanted to emphasise over false negatives over the cost of false positives . 
